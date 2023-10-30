@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60c7c227-bf62-4734-84f5-5723be916fe9" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Logback Configuration" />
+        <option value="JwtUtil" />
+        <option value="SpringBootApplicationMain" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\HACK\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XLcQbpbz66A89hy0dykVpRVcVe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/github/java-skills/SpringSecurityDemo/src/main/java/org/code&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/github/java-skills/SpringSecurityDemo/src/main/resources/templates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言&quot;: [
+      &quot;MySQL&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/更改 SQL 方言&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\resources\templates" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\java\org\demo\controller" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\java" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\java\org\code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\resources\static" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\resources\templates\png" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\resources\templates" />
+      <recent name="E:\github\java-skills\SpringSecurityDemo\src\main\resources\templates\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootApplicationMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LoginTemplate.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.code.SpringBootApplicationMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60c7c227-bf62-4734-84f5-5723be916fe9" name="更改" comment="" />
+      <created>1680512492850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680512492850</updated>
+      <workItem from="1698411787855" duration="5443000" />
+      <workItem from="1698424584206" duration="10462000" />
+      <workItem from="1698480925832" duration="12199000" />
+      <workItem from="1698494563135" duration="727000" />
+      <workItem from="1698495294880" duration="2330000" />
+      <workItem from="1698497629535" duration="32000" />
+      <workItem from="1698513256679" duration="5955000" />
+      <workItem from="1698519276033" duration="215000" />
+      <workItem from="1698519509615" duration="13318000" />
+      <workItem from="1698583650008" duration="11005000" />
+      <workItem from="1698654193836" duration="137000" />
+      <workItem from="1698654341863" duration="1000" />
+      <workItem from="1698654364325" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

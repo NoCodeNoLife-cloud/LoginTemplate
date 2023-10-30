@@ -1,0 +1,72 @@
+GET http://localhost:8080/create-user?userName=caiwei&password=123456
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=6C575397A778BFA7EB77EEFB4151D0DC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-29T022506.500.json
+
+###
+
+GET http://localhost:8080/api/auth/login
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=6C575397A778BFA7EB77EEFB4151D0DC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-28T205050.404.json
+
+###
+
+POST http://localhost:8080/api/auth/register
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=6C575397A778BFA7EB77EEFB4151D0DC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-28T204720.403.txt
+
+###
+
+POST http://localhost:8080/change-password?oldPassword=password&newPassword=123456
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=6C575397A778BFA7EB77EEFB4151D0DC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/change-password?oldPassword=password&newPassword=123456
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=A2349D3666A717B54754B9B45454E8BE
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/change-password?oldPassword=password&newPassword=123456
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=512A4DE08594F22951FF79552BC6597A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-28T022816.403.json
+
+###
+
+POST http://localhost:8080/doRegister?user=caiwei&password=123456
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
