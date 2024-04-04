@@ -2,7 +2,6 @@ package com.cod.controller;
 // Copyright (c) 2023, NoCodeNoLife-cloud. All rights reserved.
 // Author: nightCrawler ( NoCodeNoLife )
 // Created: 2023/10/27 21:19
-
 import com.cod.entity.Users;
 import com.cod.service.MyUserDetailsService;
 import lombok.extern.slf4j.Slf4j;
@@ -45,15 +44,6 @@ public class WebController {
 
 	/**
 	 * changePassword
-	 * @return String
-	 */
-	@RequestMapping("/changePassword")
-	public String changePassword() {
-		return "changePassword";
-	}
-
-	/**
-	 * changePassword
 	 * @param oldPassword     oldPassword
 	 * @param newPassword     newPassword
 	 * @param confirmPassword confirmPassword
@@ -77,24 +67,15 @@ public class WebController {
 				myUserDetailsService.updateByPrimaryKey(users);
 
 				// Redirect to login page after successful password change
-				return "redirect:/login";
+				return "redirect:/index";
 			}
 
 			// If old password doesn't match, redirect to change password page
-			return "redirect:/changePassword";
+			return "redirect:/index";
 		}
 
 		// If new password and confirm password doesn't match, redirect to change password page
-		return "redirect:/changePassword";
-	}
-
-	/**
-	 * register
-	 * @return String
-	 */
-	@RequestMapping("/register")
-	public String register() {
-		return "register";
+		return "redirect:/index";
 	}
 
 	/**
@@ -109,7 +90,25 @@ public class WebController {
 			return "redirect:/login";
 		}
 		manager.createUser(User.withUsername(username).password(encoder.encode(password)).roles("USER").build());
-		return "redirect:/register";
+		return "redirect:/login";
+	}
+
+	/**
+	 * changePassword
+	 * @return String
+	 */
+	@RequestMapping("/changePassword")
+	public String changePassword() {
+		return "changePassword";
+	}
+
+	/**
+	 * register
+	 * @return String
+	 */
+	@RequestMapping("/register")
+	public String register() {
+		return "register";
 	}
 
 	/**

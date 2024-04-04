@@ -5,6 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 
 /**
  * SpringBootApplicationInitiator
@@ -12,6 +13,7 @@ import org.springframework.context.ConfigurableApplicationContext;
  */
 @Slf4j
 @SpringBootApplication
+@EnableWebSecurity
 public class SpringBootApplicationMain {
 	/**
 	 * main
